@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 871d10ca4376b2c4bb67c2a15f95bc22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btn: {fileID: 21300000, guid: b86f0237a9b4ea24db858f6976363016, type: 3}
+  - btnpress: {fileID: 21300000, guid: 73216e87936c75f418314ea2fbdba582, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
